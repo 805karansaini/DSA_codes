@@ -1,6 +1,6 @@
 import copy
 def mergeSort(arr):
-    if len(arr) == 1:
+    if len(arr) <= 1:
         return arr
     mid = len(arr) // 2
     left = mergeSort(copy.deepcopy(arr[:mid]))
