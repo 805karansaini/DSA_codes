@@ -5,8 +5,8 @@ def subsetRET(p,up):
         return lis
 
     c = up[0]
-    skip = subset(p,up[1:])
-    comb = subset(p+c,up[1:])
+    skip = subsetRET(p,up[1:])
+    comb = subsetRET(p+c,up[1:])
 
     skip.extend(comb)
     return skip
@@ -14,4 +14,4 @@ def subsetRET(p,up):
 
 
 up = "123"
-print(subset("",up))
+print(subsetRET("",up))

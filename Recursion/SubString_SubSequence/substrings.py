@@ -12,7 +12,7 @@ def subRET(p, up):
 s = "abc"
 print(subRET("",s))
 
-def sub(p,up):\
+def sub(p,up):
     if len(up)==0:
         print(p)
         return

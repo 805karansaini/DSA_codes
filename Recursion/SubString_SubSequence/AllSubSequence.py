@@ -3,7 +3,7 @@ def all(p,list):
         return
 
 
-    p = p + [list[0] + all(p,list[1:])
+    p = p + [list[0]] + all(p,list[1:])
     p = p + all(p, list[1:])
 
     return p
