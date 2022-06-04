@@ -31,3 +31,4 @@ class Solution:
         ans = tryrow(board, 0, set(), set(), set())
 
         return ans
+
