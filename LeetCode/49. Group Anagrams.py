@@ -21,7 +21,7 @@ class Solution:
 
         return dic.values()
 
-# won work timecomplexity is high
+# wont work timecomplexity is high
 # def groupAnagrams(strs: list[str]) -> list[list[str]]:
 #     res = []
 #     count = []
