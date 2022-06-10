@@ -8,6 +8,7 @@ from collections import Counter
 # Input: strs = ["a"]
 # Output: [["a"]]
 # time Complexity (m*n*26)
+
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
         dic = defaultdict(list)
