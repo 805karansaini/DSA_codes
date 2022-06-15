@@ -1,6 +1,5 @@
 def solve():
     t = int(input())
-
     while t:
         t-=1
         temp = input().split()
