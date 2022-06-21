@@ -22,6 +22,7 @@ class Solution:
                 temp += 1
                 if K==temp:
                     #checking good string
+                    # could have made a set so it would be easy to check
                     if s[low] == s[low+1] or s[low] == s[high] or s[low+1] == s[high]:
                         pass
                     else:
