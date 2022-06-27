@@ -6,8 +6,8 @@ def solve():
             return a
         return gcd(b, a%b)
     
-    for i in range(100):
-        for j in range(200):
+    for i in range(2,50):
+        for j in range(100):
             if (i,j) in dic:
                 continue
             if (j,i) in dic:
