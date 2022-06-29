@@ -6,6 +6,7 @@ def solve():
         t-=1
         n, k = map(int,input().split())
         nums = [*map(int,input().split())]
+        # bits , bit, bitmasking, masking, binary
         # bin_list = []
         # for test_num in nums:
         #     bin_list.append([int(i) for i in list('{:032b}'.format(test_num))])
