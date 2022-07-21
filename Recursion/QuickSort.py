@@ -19,6 +19,8 @@ def quickSort(arr,low,high):
     quickSort(arr,mid+1,high)
 
 arr = [2,87,3,25,643,22,234]
-arr = [9,8,7,6,5,4,3,2,1]
+quickSort(arr,0,len(arr)-1)
+print("final",arr)
+arr = [9,342,9342,546,23423849,9,323,453,32345,5667,1,3,4,52,5,3,2]
 quickSort(arr,0,len(arr)-1)
 print("final",arr)
