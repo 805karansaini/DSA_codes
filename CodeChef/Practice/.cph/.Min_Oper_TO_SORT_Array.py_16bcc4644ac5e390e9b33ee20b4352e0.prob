@@ -1,0 +1,1 @@
+{"name":"Local: Min_Oper_TO_SORT_Array","url":"d:\\DSACodes\\CodeChef\\Practice\\Min_Oper_TO_SORT_Array.py","tests":[{"id":1659153780401,"input":"2\n5\n1 2 3 4 5\n5\n1 3 2 5 4","output":"0\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSACodes\\CodeChef\\Practice\\Min_Oper_TO_SORT_Array.py","group":"local","local":true}

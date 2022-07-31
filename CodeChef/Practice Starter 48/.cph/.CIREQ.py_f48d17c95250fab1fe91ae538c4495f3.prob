@@ -1,0 +1,1 @@
+{"name":"Local: CIREQ","url":"d:\\DSACodes\\CodeChef\\Practice Starter 48\\CIREQ.py","tests":[{"id":1659064801700,"input":"5\n3\n2 3 3\n4\n3 1 1 2\n3\n1 1 1\n5\n1 2 2 4 5\n6\n3 2 1 2 2 1","output":"1\n2\n3\n2\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSACodes\\CodeChef\\Practice Starter 48\\CIREQ.py","group":"local","local":true}
