@@ -14,7 +14,4 @@ def solve():
         for i in range(n-1):
             swap(i,i+1)
             print(" ". join(map(str,nums)))
-
-       
-    
 solve()
