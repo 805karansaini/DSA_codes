@@ -1,0 +1,1 @@
+{"name":"Local: b","url":"d:\\DSACodes\\LeetCode\\Contest\\b.py","tests":[{"id":1663469196860,"input":"abacaba\nabcde\njklmnoprstuvwxyz\nabcdefghijklmnopqrstuvwxyzas","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSACodes\\LeetCode\\Contest\\b.py","group":"local","local":true}
