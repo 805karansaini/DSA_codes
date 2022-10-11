@@ -1,0 +1,1 @@
+{"name":"Local: a","url":"d:\\DSACodes\\CodeForces\\CF_741\\a.py","tests":[{"id":1665499039229,"input":"6\nXXXS XS\nXXXL XL\nXL M\nXXL XXL\nXXXXXS M\nL M","output":"<\n>\n>\n=\n<\n>"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSACodes\\CodeForces\\CF_741\\a.py","group":"local","local":true}
