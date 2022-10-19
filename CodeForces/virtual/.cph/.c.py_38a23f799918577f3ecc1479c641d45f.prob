@@ -1,0 +1,1 @@
+{"name":"Local: c","url":"d:\\DSACodes\\CodeForces\\virtual\\c.py","tests":[{"id":1665951422770,"input":"6\n5 r\nrggry\n1 g\ng\n3 r\nrrg\n5 y\nyrrgy\n7 r\nrgrgyrg\n9 y\nrrrgyyygy\n","output":"3\n0\n2\n4\n1\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSACodes\\CodeForces\\virtual\\c.py","group":"local","local":true}
